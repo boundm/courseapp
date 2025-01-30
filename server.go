@@ -1,3 +1,4 @@
+// я русский!!!!
 package main
 
 import (
